@@ -82,11 +82,11 @@ Next, we need to partition the dataset into train, validation, and test sets. Th
 
 ### Training
 The training specifications are:
-* Epoch: 300
+* Epoch: 5
 * Dataset: Hand COCO
 * Batch size: 4
 * Image size: 640
-* GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+* GPU: NVIDIA GeForce GTX 1650 Laptop GPU
 
 If you are having fitting the model into the memory:
 * Use a smaller batch size.
